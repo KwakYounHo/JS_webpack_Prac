@@ -1,0 +1,9 @@
+#root > ul > li:nth-of-type(1) {
+  background-color: violet;
+}
+#root > ul > li:nth-of-type(3) {
+  background-color: violet;
+}
+#root > ul > li:nth-of-type(5) {
+  background-color: violet;
+}
